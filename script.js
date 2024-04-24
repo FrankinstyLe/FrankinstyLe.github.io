@@ -30,7 +30,7 @@ function fetchResults(year) {
             <p>It will be the most noticeable highlight of the Rat age in the year of the Dragon. If you're single, you need to become more confident and courageous. If you meet someone you like, take the initiative to confess, otherwise you will miss a great partner. 2024 will treat you with both accidental and unexpected "encounters" with "quality" and tasteful individuals. Therefore, please interact and socialize to meet the person of your dreams soon! If you are in a relationship, your love will be stronger than ever. You and your partner may grow to the stage of commitment such as getting engaged, getting married, or moving in together. For those of you who have a spouse, even if your married life is stable, you and your partner still inevitably lack trust in each other. To solve this, in daily life, the two must not hide anything from each other. Good or bad, you have to tell your partner to dispel all doubts and coldness.</p>
             <h3>Health</h3>
             <p>The health of the Rat people in the New Year is quite good. Thanks to that, your spirit during the coming time will be very stable, even more excited than usual. You won't have to worry about illness or injury problems. However, pay more attention to the health of your family members, especially your parents. Take them for regular check-ups, as your loved one may have some terminal or serious illnesses that need to be diagnosed early.</p>
-            <p>Sources: <a href="Link">Link</a></p>
+            <p>Sources: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-ty-nam-giap-thin-4687078.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1937 || year == 1949 || year == 1961 || year == 1973 || year == 1985 || year == 1997 || year == 2009 || year == 2021) {
         resultsContainer.innerHTML = `<h2>Ox Age Horoscope in The Year of Dragon 2024</h2>
@@ -51,7 +51,7 @@ function fetchResults(year) {
             <p>The Ox people may suffer great financial losses in the year of the Dragon. So, while you're constantly striving to make money, you should also save your spending and manage your personal wealth carefully, avoiding losing money because of things that aren't worth it. If you intend to buy and sell to invest in business, you should put safety and caution first. Next year, you may also be asked by relatives or friends to borrow money constantly. Do not lend indiscriminately, otherwise it will be difficult to get that money back.</p>
             <h3>Health</h3>
             <p>The state of health of the Ox people is very alarming. There could be bloodshed and accidents next year, especially for women. You need to pay attention when participating in traffic and driving, going out. For people who are already old, physically not very good, prone to serious pathologies. You should visit the doctor regularly to prevent any problems.</p>
-            <p>Source: <a href="Link">Link</a></p>
+            <p>Source: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-suu-nam-giap-thin-4687370.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1938 || year == 1950 || year == 1962 || year == 1974 || year == 1986 || year == 1998 || year == 2010 || year == 2022) {
         resultsContainer.innerHTML = `<h2>Tiger Age Horoscope in The Year Of Dragon 2024</h2>
@@ -72,7 +72,7 @@ function fetchResults(year) {
             <p>The spirit of the Tiger people becomes quite fragile and sensitive in the coming year. This will affect the current relationship, if you are in love or married. You and your partner may often misunderstand each other due to heartless and inadvertent actions and words, leading to anger and cold war. Both tend to be avoidant and unwilling to solve problems positively. Fortunately, after many such times, both parties will learn to adapt and get along with each other. The peaceful atmosphere will return to the two of you soon. If you are single, it will be difficult to escape that status in 2024. You become introverted, self-conscious, and suspicious when someone of the opposite sex approaches you.</p>
             <h3>Health</h3>
             <p>The health of the Tiger is quite bad next year. You may experience serious injuries as a result of an accident or hit a sharp object. Therefore, you need to pay special attention when exercising, driving, or participating in traffic. You should also adjust your diet so that it is healthiest, avoid eating greasy and frozen foods. Because next year, you are prone to diseases related to cholesterol and digestion.</p>
-            <p>Source: <a href="Link">Link</a></p>
+            <p>Source: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-dan-nam-giap-thin-4687499.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1939 || year == 1951 || year == 1963 || year == 1975 || year == 1987 || year == 1999 || year == 2011 || year == 2023) {
         resultsContainer.innerHTML = `<h2>Cat Age Horoscope in The Year of Dragon 2024</h2>
@@ -93,7 +93,7 @@ function fetchResults(year) {
             <p>If married, the married life of the Cat people will arise turbulent and suspicious of each other. Many conflicts and misunderstandings appear that cause feelings to fracture. You need to be rational when arguing with your partner, take the initiative to find solutions and make peace if possible. You should not keep the mentality of running away or avoiding, because it will only make the situation more complicated. If you are single, bad luck. You will yet able to find “The One”. You may also get involved in ambiguous relationships, leaving you depressed and tired.</p>
             <h3>Health</h3>
             <p>The health of the Cat people in the year of Dragon is very concerning. You are prone to illness, injury, accidents caused by sharp objects or when going out. You need to focus on physical exercise, maintain a healthy lifestyle to increase immunity. In addition, you should regularly visit a health checkup.</p>
-            <p>Source: <a href="Link">Link</a></p>
+            <p>Source: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-mao-nam-giap-thin-4689202.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1940 || year == 1952 || year == 1964 || year == 1976 || year == 1988 || year == 2000 || year == 2012 || year == 2024) {
         resultsContainer.innerHTML = `<h2>Dragon Age Horoscope in The Year of Dragon 2024</h2>
@@ -115,7 +115,7 @@ function fetchResults(year) {
             <p>Romance is the worst aspect of Dragon people in 2024. If you're single, you may meet many potential people of the opposite sex, but the end result is still not good. You may even encounter bad people, take advantage of your feelings or fall in love with the wrong person, leading to breakups and serious self-harm. As for those who are in a loving relationship or already married, a third person may appear and break up your current relationship, watch out! To avoid the heaviest possible losses, you need to control your temper and the urge to control others. Learn to tolerate and talk with your partner, understand each other and find solutions to improve the relationship, instead of arguing, frustrating and angrying at each other, giving “the third person” a chance to interfere. Otherwise, the two of you may end up separated.</p>
             <h3>Health</h3>
             <p>The health of Dragon people in 2024 is generally not good. You may experience an injury or possibly a serious, life-threatening illness. Therefore, you must not be subjective, it is recommended to visit a doctor regularly for timely diagnosis if there is a problem.</p>
-            <p>Source: <a href="Link">Link</a></p>
+            <p>Source: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-thin-nam-giap-thin-4689697.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1941 || year == 1953 || year == 1965 || year == 1977 || year == 1989 || year == 2001 || year == 2013) {
         resultsContainer.innerHTML = `<h2>Snake Age Horoscope in The Year of Dragon 2024</h2>
@@ -136,7 +136,7 @@ function fetchResults(year) {
             <p>The love story of the Snake people is relatively good. If you are single, you may receive a confession of love, pursuit or flirting from a long-time friend or acquaintance who has been secretly in love with you for a long time. The relationship will develop quite quickly, and may even lead to unexpected marriage. For those in love, your relationship will become stronger and stronger in the coming year. Nothing will separate the two. Of course, the two of you are still not immune to petty quarrels. But this is normal for couples! For those of you who are married, you and your partner may have good news about the atmosphere, the family atmosphere is very fun and cozy.</p>
             <h3>Health</h3>
             <p>Health may be the worst aspect of the Snake people in this new year. You may be sick, mild, generally not too serious. Even if in treatment, you will still get through this period and recover quickly. You yourself should do sports regularly, and choose a fitable diet.</p>
-            <p>Source: <a href="Link">Link</a></p>
+            <p>Source: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-ty-nam-giap-thin-4689898.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1942 || year == 1954 || year == 1966 || year == 1978 || year == 1990 || year == 2002 || year == 2014) {
         resultsContainer.innerHTML = `<h2>Horse Age Horoscope in The Year of Dragon 2024</h2>
@@ -157,7 +157,7 @@ function fetchResults(year) {
             <p>The love story of people born in the year of the Horse in 2024 is generally quite good for couples in love and married. Even if there are many conflicts and conflicts, you will find a way to compromise and make up with your other half. Thanks to that, the couple's life is still very sweet and harmonious. Most likely, the cause of the argument between you two is mainly related to money. Therefore, you will need to work harder to earn more money. If still single, people born in the year of the Horse may be involved in a love triangle without knowing it, or be flirted with and deceived by a womanizer. You will need to be attentive and careful in connecting with those who approach you in the year of the Dragon.</p>
             <h3>Health</h3>
             <p>The health condition of people born in the year of the Horse next year will be quite bad. You may encounter many serious illnesses that need immediate care and treatment. In 2024, go for regular check-ups to detect problems promptly if there are any diseases. In addition, you should not participate in risky games and activities to preserve your health and life.</p>
-            <p>Sources: <a href="Link">Link</a></p>
+            <p>Sources: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-ngo-nam-giap-thin-4690323.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1943 || year == 1955 || year == 1967 || year == 1979 || year == 1991 || year == 2003 || year == 2015) {
         resultsContainer.innerHTML = `<h2>Goat Age Horoscope in The Year of Dragon 2024</h2>
@@ -180,7 +180,7 @@ function fetchResults(year) {
             <p>People born in the year of the Goat who are in love and married have many conflicts due to differences in worldview, thinking, and future orientation. This opposition can lead to breakdown. Some people born in the year of the Goat may even suffer violence from their spouse or lover, causing you serious harm both physically and mentally. Think decisively and make the decision to stop if you can't mend, don't hold on for a moment of softness!</p>
             <h3>Health</h3>
             <p>The health of people born in the year of the Goat will be quite gloomy in the coming year. Not only are you seriously ill, you are also at risk of accidents and bloodshed. You will need to increase your awareness of safety precautions, especially when going out, driving or traveling, or doing manual activities.</p>
-            <p>Sources: <a href="Link">Link</a></p>
+            <p>Sources: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-mui-nam-giap-thin-4690662.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1944 || year == 1956 || year == 1968 || year == 1980 || year == 1992 || year == 2004 || year == 2016) {
         resultsContainer.innerHTML = `<h2>Monkey Age Horoscope in The Year of Dragon 2024</h2>
@@ -201,7 +201,7 @@ function fetchResults(year) {
             <p>Love for people born in the year of the Monkey will also bloom in 2024. The God of love will keep an eye on those who are single. You can meet a suitable "lover" through matchmaking and introductions from good friends. You can even get married quite quickly with this person. People who are in love or married will become closer, more intimate and more passionate in the new year. Your chances of getting pregnant or giving birth in the year of the Dragon are also very high. =))))))))</p>
             <h3>Health</h3>
             <p>You will not have many serious health problems in the coming year. If you have children, rest assured that they will live under the careful care of their parents and will not get sick much. For the elderly in the house, you don't need to worry too much. The only thing you need to worry about is your own mental health. Your emotions will be very chaotic and up and down in 2024, making you tired. You will need to rest in moderation, not overworking and thinking too much.</p>
-            <p>Sources: <a href="Link">Link</a></p>
+            <p>Sources: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-than-nam-giap-thin-4691085.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else  if (year == 1945 || year == 1957 || year == 1969 || year == 1981 || year == 1993 || year == 2005 || year == 2017) {
         resultsContainer.innerHTML = `<h2>Rooster Age Horoscope in The Year of Dragon 2024</h2>
@@ -222,7 +222,7 @@ function fetchResults(year) {
             <p>Love affairs are also a bright feature in the Year of the Dragon. If you are single, your love life will increase sharply, even when "sitting idly", you still have satellites surrounding you to flirt and pursue you. In general, you will attract a lot of "quality" characters. Please choose wisely and carefully! For those who are in a relationship, love will become more passionate and burning. However, for married people, flirtation and attractiveness can cause you to neglect your marriage and get into trouble with a third person. You will need to adjust your psychology and emotions, turn more towards your other half and show commitment and loyalty. Don't cross the line!</p>
             <h3>Health</h3>
             <p>The health situation of people born in the year of the Rooster, both physically and mentally, will be quite good in the coming year. Your physical strength is generally persistent, full of vitality and always in a cheerful mood. You just need to avoid drinking too much alcohol and limit eating fatty foods!</p>
-            <p>Sources: <a href="Link">Link</a></p>
+            <p>Sources: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-dau-nam-giap-thin-4691603.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else  if (year == 1946 || year == 1958 || year == 1970 || year == 1982 || year == 1994 || year == 2006 || year == 2018) {
         resultsContainer.innerHTML = `<h2>Dog Age Horoscope in The Year of Dragon 2024</h2>
@@ -243,7 +243,7 @@ function fetchResults(year) {
             <p>The love life of people born in the year of the Dog will also have many obstacles in 2024. If you are single, you may be matched by relatives and friends for potential dates. But unfortunately this relationship may only last in the short term. If you are in love or married, the frequency of arguments and conflicts between you and your other half is very frequent, even serious, causing major rifts.</p>
             <h3>Health</h3>
             <p>Luckily, in the area of physical health, people born in the year of the Dog will not have any major troubles in the coming year. You rarely get sick, no signs of serious illness. However, you may experience many mental problems, boredom, frustration, sadness and even depression. Some people born in the year of the Dog may have to go for medical examination and psychological treatment if the situation becomes more severe. In short, pay more attention to your mental health. You also need to limit long distance travel, because collisions and minor accidents may occur.</p>
-            <p>Sources: <a href="Link">Link</a></p>
+            <p>Sources: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-tuat-nam-giap-thin-4692545.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else if (year == 1947 || year == 1959 || year == 1971 || year == 1983 || year == 1995 || year == 2007 || year == 2019) {
         resultsContainer.innerHTML = `<h2>Pig Age Horoscope in The Year of Dragon 2024</h2>
@@ -264,7 +264,7 @@ function fetchResults(year) {
             <p>The love life of people born in the year of the Pig will be smooth and good in 2024. You will enjoy a happy and fulfilling married life if you are married. For those who are single, your probability of escaping singlehood is very high. You can date quality and potential partners thanks to the introduction of friends and relatives. If you are in a relationship, you and your other half can go further, like getting engaged or getting married in the year of the Dragon.</p>
             <h3>Health</h3>
             <p>The health condition of people born in the year of the Pig is generally stable in the coming year, with no serious problems occurring. Of course, you can still get sick or have a minor injury. What you need to do is stay optimistic when faced with those small troubles! If you are suffering from a long-term chronic disease, you have the opportunity to see a skilled doctor and be able to treat it thoroughly and recover completely. Next year, limit your travel to avoid accidents and collisions!</p>
-            <p>Sources: <a href="Link">Link</a></p>
+            <p>Sources: <a href="https://ngoisao.vnexpress.net/tu-vi-tuoi-hoi-nam-giap-thin-4692789.html">Link</a></p>
             <p>Translator: Truc Le</p>`;
     } else {
         resultsContainer.innerHTML = "<p>Sorry, we don't have specific content for the year you entered.</p>";
