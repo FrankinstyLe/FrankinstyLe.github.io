@@ -6,12 +6,19 @@ body {
 }
 
 .container {
-    max-width: 600px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* This centers the container horizontally */
+    text-align: center; /* This centers text and inline elements */
+}
+
+.container img {
+    display: block; /* Ensures the image is centered properly */
+    margin: 0 auto; /* Centers the image horizontally */
+}
+
+.container form {
+    margin-top: 20px; /* Adjust the spacing between the image and form as needed */
 }
 
 h1 {
