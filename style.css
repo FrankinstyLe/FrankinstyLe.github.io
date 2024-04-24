@@ -5,10 +5,17 @@ body {
     padding: 0;
 }
 
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .container {
-    width: 100%;
+    width: 80%; /* Adjust the width as needed */
     max-width: 600px; /* Adjust the maximum width as needed */
-    margin: 0 auto; /* This centers the container horizontally */
     text-align: center; /* This centers text and inline elements */
 }
 
